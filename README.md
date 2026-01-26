@@ -15,3 +15,4 @@ peer-reviewed publication to ensure reproducibility and clarity.
 This public repository is intended for project overview, documentation, and
 research context only.
 Detailed technical materials are available upon reasonable request.
+“I hope this concise summary is useful, and I would value any feedback you may have when time permits.”
