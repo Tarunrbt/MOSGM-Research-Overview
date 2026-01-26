@@ -1,18 +1,24 @@
-# MOSGM – Matter-Originated Spacetime Gradient Model
+MOSGM – Matter-Originated Spacetime Gradient Model
 
-This repository provides a high-level overview of research related to the
-Matter-Originated Spacetime Gradient Model (MOSGM), a phenomenological framework
-used to formulate testable predictions in astrophysical systems.
+This repository provides a concise public overview of research related to the Matter-Originated Spacetime Gradient Model (MOSGM), a phenomenological framework developed to formulate testable and falsifiable predictions in astrophysical systems.
 
-Current work focuses on observational tests at galaxy cluster scales, including
-statistical analyses of velocity dispersion data and environment-dependent
-dynamical behavior.
+MOSGM research focuses on identifying domain-dependent dynamical behavior in galaxies and galaxy clusters, with particular attention to how localized versus extended baryonic mass distributions give rise to distinct kinematic responses under identical diagnostic conditions.
 
-The analysis code and data-processing pipelines used for active research are
-maintained in private repositories and will be released in conjunction with
-peer-reviewed publication to ensure reproducibility and clarity.
+Current work emphasizes observational tests using galaxy rotation curves and cluster velocity-dispersion profiles. The objective is not parameter fitting or curve matching, but the detection or non-detection of pre-registered, scale-specific dynamical features predicted by the framework.
 
-This public repository is intended for project overview, documentation, and
-research context only.
-Detailed technical materials are available upon reasonable request.
-“I hope this concise summary is useful, and I would value any feedback you may have when time permits.”
+A summary visualization of the core result is referenced below:
+
+Evidence Matrix (SPARC galaxies)
+Detailed analysis available upon request.
+
+All analysis pipelines, mock tests, and automated verification frameworks used for active research are maintained in private repositories. These materials will be released in conjunction with peer-reviewed publication to ensure reproducibility, clarity, and appropriate scientific context.
+
+This public repository is intended solely for project overview and documentation. It does not contain analysis code, raw data products, or unpublished figures.
+
+For academic inquiries or collaboration, please contact the author directly.
+
+Author
+
+Tarun Saxena
+Independent Researcher
+Email: tarunrbt@gmail.com
