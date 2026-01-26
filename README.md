@@ -14,3 +14,4 @@ peer-reviewed publication to ensure reproducibility and clarity.
 
 This public repository is intended for project overview, documentation, and
 research context only.
+Detailed technical materials are available upon reasonable request.
