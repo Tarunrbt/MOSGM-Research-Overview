@@ -4,7 +4,7 @@ This repository provides a concise public overview of research related to the Ma
 
 MOSGM research focuses on identifying domain-dependent dynamical behavior in galaxies and galaxy clusters, with particular attention to how localized versus extended baryonic mass distributions give rise to distinct kinematic responses under identical diagnostic conditions.
 
-Current work emphasizes observational tests using galaxy rotation curves and cluster velocity-dispersion profiles. The objective is not parameter fitting or curve matching, but the detection or non-detection of pre-registered, scale-specific dynamical features predicted by the framework.
+Current work emphasizes observational tests using galaxy rotation curves and galaxy cluster velocity-dispersion profiles. The objective is not parameter fitting or curve matching, but the detection or non-detection of pre-registered, scale-specific dynamical features predicted by the framework.
 
 A summary visualization of the core result is referenced below:
 
@@ -13,9 +13,8 @@ Detailed analysis available upon request.
 
 All analysis pipelines, mock tests, and automated verification frameworks used for active research are maintained in private repositories. These materials will be released in conjunction with peer-reviewed publication to ensure reproducibility, clarity, and appropriate scientific context.
 
-This public repository is intended solely for project overview and documentation. It does not contain analysis code, raw data products, or unpublished figures.
-
-For academic inquiries or collaboration, please contact the author directly.
+This public repository is intended solely for project overview, documentation, and research context. It does not contain analysis code, raw data products, or unpublished figures.
+Detailed technical materials are available upon reasonable request.
 
 Author
 
