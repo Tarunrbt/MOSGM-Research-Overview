@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you reference the MOSGM-I framework, please cite it using these metadata."
+
+title: "MOSGM-I: Matter-Originated Spacetime Gradient Model — Phenomenological Framework"
+
+version: 1.0.0
+# date-released will be set automatically upon release
+
+authors:
+  - family-names: Saxena
+    given-names: Tarun
+    orcid: https://orcid.org/0009-0009-1740-3862
+
+repository-code: https://github.com/Tarunrbt/MOSGM-Research-Overview
+
+abstract: >
+  MOSGM-I (Matter-Originated Spacetime Gradient Model) is a phenomenological
+  research framework establishing the primary conceptual and observational
+  baseline for testing domain-dependent gravitational dynamics in astrophysical
+  systems. This release defines the framework for academic citation and
+  long-term archival.
+
+keywords:
+  - phenomenology
+  - gravitational frameworks
+  - spacetime emergence
+  - MOSGM
+  - astrophysical dynamics
+
+license: MIT
