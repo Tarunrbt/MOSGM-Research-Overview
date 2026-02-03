@@ -16,6 +16,10 @@ All analysis pipelines, mock tests, and automated verification frameworks used f
 This public repository is intended solely for project overview, documentation, and research context. It does not contain analysis code, raw data products, or unpublished figures.
 Detailed technical materials are available upon reasonable request.
 
+This repository documents a locked phenomenological framework and completed observational tests of MOSGM at galaxy and cluster scales.
+No post-hoc tuning or parameter optimization has been performed after unblinding.
+Future extensions (lensing, cosmology) are explicitly out of scope and treated as speculative.
+
 Author
 
 Tarun Saxena
