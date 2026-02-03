@@ -17,8 +17,14 @@ This public repository is intended solely for project overview, documentation, a
 Detailed technical materials are available upon reasonable request.
 
 This repository documents a locked phenomenological framework and completed observational tests of MOSGM at galaxy and cluster scales.
+
 No post-hoc tuning or parameter optimization has been performed after unblinding.
 Future extensions (lensing, cosmology) are explicitly out of scope and treated as speculative.
+
+– No curve-fitting or halo modeling
+– No unpublished figures or tuned parameters
+– No cosmological simulations
+– No dark-matter particle assumptions
 
 Author
 
