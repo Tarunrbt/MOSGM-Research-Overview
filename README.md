@@ -4,6 +4,19 @@ This repository provides a concise public overview of research related to the Ma
 
 MOSGM research focuses on identifying domain-dependent dynamical behavior in galaxies and galaxy clusters, with particular attention to how localized versus extended baryonic mass distributions give rise to distinct kinematic responses under identical diagnostic conditions.
 
+### Central Prediction (Parameter-free)
+
+\[
+r_t = \sqrt{\frac{G M_b}{a_0}}
+\]
+
+MOSGM predicts a localized, non-analytic dynamical feature at
+\( r \approx r_t \) in velocity-dispersion or rotation-curve
+derivatives.  
+
+This feature arises purely from the baryonic mass distribution
+and does not rely on dark matter halo modeling or parameter tuning.
+
 Current work emphasizes observational tests using galaxy rotation curves and galaxy cluster velocity-dispersion profiles. The objective is not parameter fitting or curve matching, but the detection or non-detection of pre-registered, scale-specific dynamical features predicted by the framework.
 
 A summary visualization of the core result is referenced below:
