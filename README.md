@@ -38,6 +38,7 @@ Future extensions (lensing, cosmology) are explicitly out of scope and treated a
 – No unpublished figures or tuned parameters
 – No cosmological simulations
 – No dark-matter particle assumptions
+Please cite the MOSGM-I phenomenological framework DOI and the associated cluster-scale observational paper when referencing results from this project.
 
 Author
 
